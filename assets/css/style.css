@@ -1,0 +1,22 @@
+@font-face{
+    font-family:HelloValentina;
+    src: url(../Fonts/Fonts/Hello\ Valentina.ttf);
+}
+.HelloValentina{
+    font-family:HelloValentina;
+    font-size: 50px;
+    color: white;
+}
+
+@font-face{
+    font-family:Ticon;
+    src: url(../Fonts/Icons/Type\ Icons.ttf);
+}
+
+.Ticon{
+    font-family:Ticon;
+    font-size: 35px;
+    color: black;
+    display: flex;
+    align-items: baseline;
+}
